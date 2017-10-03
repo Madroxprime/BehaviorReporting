@@ -1,0 +1,26 @@
+{
+  "name": "behaviorreporting",
+  "version": "1.0.0",
+  "description": "A tool for tracking student points for behavioral programs in the classroom.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madroxprime/BehaviorReporting.git"
+  },
+  "author": "John Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madroxprime/BehaviorReporting/issues"
+  },
+  "homepage": "https://github.com/Madroxprime/BehaviorReporting#readme",
+  "dependencies": {
+    "sqlite3": "^3.1.12"
+  },
+  "devDependencies": {
+    "electron": "^1.7.6"
+  }
+}
